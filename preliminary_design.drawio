@@ -1,0 +1,103 @@
+<mxfile host="65bd71144e">
+    <diagram id="LlX7UGRwsejUmYMQzZ2J" name="Page-1">
+        <mxGraphModel dx="1013" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="39" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="2" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Cable Release" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="262.5" y="110" width="105" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Cable Release mechanical&amp;nbsp; interface" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="230" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="11" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Photographer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="505" y="735" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=90;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="2" target="12">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="497.5" y="40" as="sourcePoint"/>
+                        <mxPoint x="657.5" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="12" target="3">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="497.5" y="40" as="sourcePoint"/>
+                        <mxPoint x="657.5" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="15" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="15" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Command / Logic" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="410" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="16" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Mechanical power source" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="262.5" y="320" width="105" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="17" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Remote interface / distant" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="640" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="18" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Remote interface / local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="500" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="19" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="User interface" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="730" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="467.5" y="110" width="105" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-90;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="590" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="31" target="17">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="497.5" y="720" as="sourcePoint"/>
+                        <mxPoint x="657.5" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" edge="1" parent="1" source="18" target="31">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="497.5" y="720" as="sourcePoint"/>
+                        <mxPoint x="657.5" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="Interface protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="337.5" y="585" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Mechanical adaptation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="337.5" y="185" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#36393d;fillColor=#eeeeee;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="190" width="20" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Cable Release Remote Control Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="465" width="110" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
