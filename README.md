@@ -31,7 +31,7 @@ A good architecture leads to a good balance between the costs (components cost, 
 The architecture design shall be able to meat requirements of the current definition of the product but shall also be able to support new requirements. 
 
 Once the architecture has been defined, a cost (design, build) can be estimated for each requirement.  
-The balance between estimated value and estimated cost can then be used to decide in which requirement group (wich relase) will be added a given requirement. In the case of a very bad balance, the decision can be made to reject the requirement.
+The balance between estimated value and estimated cost can then be used to decide in which requirement group (which release) will be added a given requirement. In the case of a very bad balance, the decision can be made to reject the requirement.
 
 
 
