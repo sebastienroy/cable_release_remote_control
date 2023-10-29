@@ -19,7 +19,7 @@ These electronic remote controls cannot be used with mechanical release threaded
 
 **This is the goal of this project : create a device that can add a remote control capacity to mechanical cameras.**
 
-# Device Requirements
+# Device Requirements and Architecture
 
 As an engineer, it is a good habit to begin a project by defining all the requirements the resulting system shall satisfy.  
 Because all the requirements have not the same weight (some of them are mandatory while some others are only wishes), it is also a good habit to give them a priority.  
