@@ -71,6 +71,7 @@ The balance between estimated value and estimated cost can then be used to decid
 + The device shall be complient with European Restriction of Hazardous Substances (RoHS) directive
 + The device shall be complient with European Electromagnetic Compatibility Directive
 + Durability: the device shall not contain component with limited lifespan.
++ Integrity : by construction, the device shall not be able to deteriorate the camera by applying an excessive force on its release. 
 + The device shall be able to be powered using (rechargeable) batteries
 + The device shall be able to be powered using a power bank
 + Maintenability : The device design shall allow users to upload firmware updates
