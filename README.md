@@ -65,7 +65,7 @@ The balance between estimated value and estimated cost can then be used to decid
 + The device shall allow the user to open the shutter of the camera during a user predefined amount of time
 + The device shall allow the user to open and then close the shutter of the camera during an undefined amount of time
 + The device shall be remote controlled by the user
-+ The device shall be aple to perform a half-press a given amount of time, before the complete press, in order to allow the camera to perform auto-focus and other parameter adaptation before releasing the shutter
++ The device shall be able to perform a half-press a given amount of time, before the complete press, in order to allow the camera to perform auto-focus and other parameter adaptation before releasing the shutter
 
 ## Non functional requirements
 
