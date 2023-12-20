@@ -77,6 +77,13 @@ The balance between estimated value and estimated cost can then be used to decid
 + The device shall be able to be powered using a power bank
 + Maintenability : The device design shall allow users to upload firmware updates
 + The device end user price, including components and workforce costs, shall not exceed ZZ euros.
++ 
+## Physical design
+
+![FPhysical Architecture](/images/physical_design.svg)  
+*Functional Architecture definition*
+
+
 
 
 
