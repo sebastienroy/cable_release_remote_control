@@ -80,8 +80,8 @@ The balance between estimated value and estimated cost can then be used to decid
 + 
 ## Physical design
 
-![FPhysical Architecture](/images/physical_design.svg)  
-*Functional Architecture definition*
+![Physical Architecture](/images/physical_design.svg)  
+*Physical Architecture definition*
 
 
 
