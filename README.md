@@ -83,6 +83,12 @@ The balance between estimated value and estimated cost can then be used to decid
 ![Physical Architecture](/images/physical_design.svg)  
 *Physical Architecture definition*
 
+## Casing
+
+3D model made using FreeCAD.  
+https://github.com/sebastienroy/cable_release_remote_control/blob/main/3dmodel/remote_case.FCStd
+
+Work in progress
 
 
 
